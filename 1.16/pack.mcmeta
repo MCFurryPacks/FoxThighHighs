@@ -3,7 +3,7 @@
 		"pack_format": 6,
 		"description": "Give foxes a little more colors.",
 		"version": {
-			"git": "1.0.3",
+			"git": "1.0.2",
 			"mc": "1.16"
 		}
 	}
