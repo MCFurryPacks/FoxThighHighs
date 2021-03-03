@@ -1,6 +1,7 @@
 {
   "pack": {
     "pack_format": 6,
-    "description": "Give foxes a little more colors."
+    "description": "Give foxes a little more colors.",
+    "git_version": "1.0.1"
   }
 }
