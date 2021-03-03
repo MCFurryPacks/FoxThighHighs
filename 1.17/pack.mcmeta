@@ -1,0 +1,10 @@
+{
+	"pack": {
+		"pack_format": 7,
+		"description": "Give foxes a little more colors.",
+		"version": {
+			"git": "1.0.3",
+			"mc": "1.17"
+		}
+	}
+}
